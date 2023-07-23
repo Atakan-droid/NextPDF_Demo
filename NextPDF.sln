@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextPDF.API", "NextPDF.API\NextPDF.API.csproj", "{BDD1FA27-12EB-486B-86D9-F09D39E11D1E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NextPdf.Utils", "NextPdf.Utils\NextPdf.Utils.csproj", "{8DE97139-0051-4726-BB44-C97E8F853F52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDD1FA27-12EB-486B-86D9-F09D39E11D1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDD1FA27-12EB-486B-86D9-F09D39E11D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDD1FA27-12EB-486B-86D9-F09D39E11D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDD1FA27-12EB-486B-86D9-F09D39E11D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8DE97139-0051-4726-BB44-C97E8F853F52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8DE97139-0051-4726-BB44-C97E8F853F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8DE97139-0051-4726-BB44-C97E8F853F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8DE97139-0051-4726-BB44-C97E8F853F52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\bin\Debug\net7.0\NextPdf.Utils.deps.json
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\bin\Debug\net7.0\NextPdf.Utils.dll
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\bin\Debug\net7.0\NextPdf.Utils.pdb
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\obj\Debug\net7.0\NextPdf.Utils.csproj.AssemblyReference.cache
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\obj\Debug\net7.0\NextPdf.Utils.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\obj\Debug\net7.0\NextPdf.Utils.AssemblyInfoInputs.cache
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\obj\Debug\net7.0\NextPdf.Utils.AssemblyInfo.cs
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\obj\Debug\net7.0\NextPdf.Utils.csproj.CoreCompileInputs.cache
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\obj\Debug\net7.0\NextPdf.Utils.dll
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\obj\Debug\net7.0\refint\NextPdf.Utils.dll
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\obj\Debug\net7.0\NextPdf.Utils.pdb
+D:\Projects\DOTNET\NextPDF\NextPDF.API\NextPdf.Utils\obj\Debug\net7.0\ref\NextPdf.Utils.dll
