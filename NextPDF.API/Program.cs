@@ -30,6 +30,7 @@ builder.Services.AddScoped<SpeechClientFactory>(scope =>
         .Get<string>());
 });
 builder.Services.AddScoped<TextToSpeechService>();
+builder.Services.AddScoped<WordService>();
 builder.Services.AddScoped<SpeechToTextService>();
 
 builder.Services.AddEndpointsApiExplorer();

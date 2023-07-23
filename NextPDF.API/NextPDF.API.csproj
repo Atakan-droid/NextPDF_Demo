@@ -8,8 +8,13 @@
     </PropertyGroup>
 
     <ItemGroup>
+        <PackageReference Include="Aspose.Words" Version="23.7.0" />
+        <PackageReference Include="DocumentFormat.OpenXml" Version="2.20.0" />
+        <PackageReference Include="DocXCore" Version="1.0.10" />
         <PackageReference Include="Google.Cloud.Speech.V1" Version="3.4.0" />
         <PackageReference Include="Microsoft.AspNetCore.OpenApi" Version="7.0.5" />
+        <PackageReference Include="Microsoft.Office.Interop.Word" Version="15.0.4797.1004" />
+        <PackageReference Include="NPOI" Version="2.6.1" />
         <PackageReference Include="Swashbuckle.AspNetCore" Version="6.4.0" />
     </ItemGroup>
 
