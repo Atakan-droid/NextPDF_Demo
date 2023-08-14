@@ -1,0 +1,12 @@
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\bin\Debug\net7.0\SpeechRecognition.CognitiveHelper.deps.json
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\bin\Debug\net7.0\SpeechRecognition.CognitiveHelper.dll
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\bin\Debug\net7.0\SpeechRecognition.CognitiveHelper.pdb
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\obj\Debug\net7.0\SpeechRecognition.CognitiveHelper.csproj.AssemblyReference.cache
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\obj\Debug\net7.0\SpeechRecognition.CognitiveHelper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\obj\Debug\net7.0\SpeechRecognition.CognitiveHelper.AssemblyInfoInputs.cache
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\obj\Debug\net7.0\SpeechRecognition.CognitiveHelper.AssemblyInfo.cs
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\obj\Debug\net7.0\SpeechRecognition.CognitiveHelper.csproj.CoreCompileInputs.cache
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\obj\Debug\net7.0\SpeechRecognition.CognitiveHelper.dll
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\obj\Debug\net7.0\refint\SpeechRecognition.CognitiveHelper.dll
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\obj\Debug\net7.0\SpeechRecognition.CognitiveHelper.pdb
+D:\Projects\DOTNET\SpeechRec\SpeechRecognition\SpeechRecognition.CognitiveHelper\obj\Debug\net7.0\ref\SpeechRecognition.CognitiveHelper.dll
